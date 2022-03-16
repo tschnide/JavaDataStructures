@@ -1,3 +1,3 @@
 # JavaDataStructures
 
-Data structures excercises.
+Data structures practice.

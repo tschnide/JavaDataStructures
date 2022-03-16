@@ -1,0 +1,3 @@
+# JavaDataStructures
+
+Data structures excercises.
